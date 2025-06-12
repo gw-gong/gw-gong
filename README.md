@@ -2,7 +2,7 @@
 ### Languages and Tools
 
 Backend:
-<div style="display: flex; flex-wrap: wrap; margin: 10px;">
+<div style="display: flex; flex-wrap: wrap; margin: 10px; margin-top: -14px;">
   <img title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" />
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
   <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
@@ -20,7 +20,7 @@ Backend:
 </div>
 
 Frontend:
-<div style="display: flex; flex-wrap: wrap; margin: 10px;">
+<div style="display: flex; flex-wrap: wrap; margin: 10px; margin-top: -14px;">
   <img title="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40" />
   <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
@@ -28,7 +28,7 @@ Frontend:
 </div>
 
 DevOps:
-<div style="display: flex; flex-wrap: wrap; margin: 10px;">
+<div style="display: flex; flex-wrap: wrap; margin: 10px; margin-top: -14px;">
   <img title="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" />
   <img title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" />
   <img title="Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40" height="40" />
@@ -37,7 +37,7 @@ DevOps:
 </div>
 
 Game Development:
-<div style="display: flex; flex-wrap: wrap; margin: 10px;">
+<div style="display: flex; flex-wrap: wrap; margin: 10px; margin-top: -14px;">
   <img title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" />
   <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
 </div>
