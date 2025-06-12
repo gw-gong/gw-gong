@@ -18,6 +18,7 @@ Backend:
   <img title="opentelemetry" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" width="40" height="40" />
   <img title="jaeger" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-original.svg" width="40" height="40" />
 </div>
+<br>
 
 Frontend:
 <div style="display: flex; flex-wrap: wrap; margin: 10px; margin-top: -14px;">
@@ -26,6 +27,7 @@ Frontend:
   <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
   <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
 </div>
+<br>
 
 DevOps:
 <div style="display: flex; flex-wrap: wrap; margin: 10px; margin-top: -14px;">
@@ -35,6 +37,7 @@ DevOps:
   <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
   <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
 </div>
+<br>
 
 Game Development:
 <div style="display: flex; flex-wrap: wrap; margin: 10px; margin-top: -14px;">
