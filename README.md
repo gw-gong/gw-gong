@@ -11,7 +11,7 @@ Linked Github Account: [ggw2021](https://github.com/ggw2021)
 
 ### ✍ Blog & Writing
 
-Personal blog website: [gxblogs.com](https://gxblogs.com)
+Personal blog: [gxblogs.com](https://gxblogs.com)
 
 <br>
 
