@@ -3,7 +3,7 @@
 Welcome to my profile! Specialized in backend development.<br>
 For collaboration or technical discussions, feel free to contact me at: gavin.gong.it@gmail.com
 
-Linked Github Account：[ggw2021](https://github.com/ggw2021)
+Linked Github Account: [ggw2021](https://github.com/ggw2021)
 
 <br>
 
