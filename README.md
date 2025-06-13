@@ -1,6 +1,7 @@
-# Hey there! I'm Gavin Gong
+<h1 align="center">Hey there! I'm Gavin Gong</h1>
 
-Welcome to my profile! Specialized in backend development. For collaboration or technical discussions, feel free to contact me at: gavin.gong.it@gmail.com
+Welcome to my profile! Specialized in backend development.<br>
+For collaboration or technical discussions, feel free to contact me at: gavin.gong.it@gmail.com
 
 Linked Github Account：[ggw2021](https://github.com/ggw2021)
 
