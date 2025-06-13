@@ -53,8 +53,6 @@ DevOps:
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-<br>
-
 Game Development:
 <p style="display: flex; flex-wrap: wrap; margin: 10px; margin-top: -14px;">
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
