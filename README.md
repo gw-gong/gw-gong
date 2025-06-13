@@ -13,19 +13,6 @@ Personal blog website: [gxblogs.com](https://gxblogs.com)
 
 <br>
 
-### ⭐️ Main Projects 
-
-<a href="https://github.com/gw-gong/code-comment-analyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gw-gong&repo=code-comment-analyzer&title_color=ffffff&text_color=c5c6cc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<br>
-<a href="https://github.com/ggw2021/WebDesign">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggw2021&repo=WebDesign&title_color=ffffff&text_color=c5c6cc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<br><br>
-
 ### 🛠️ Languages and Tools
 
 Backend:
@@ -64,7 +51,19 @@ DevOps:
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+<br>
+
 Game Development:
 <p style="display: flex; flex-wrap: wrap; margin: 10px; margin-top: -14px;">
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 </p>
+
+### ⭐️ Main Projects 
+
+<a href="https://github.com/gw-gong/code-comment-analyzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gw-gong&repo=code-comment-analyzer&title_color=ffffff&text_color=c5c6cc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<br>
+<a href="https://github.com/ggw2021/WebDesign">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggw2021&repo=WebDesign&title_color=ffffff&text_color=c5c6cc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
