@@ -1,6 +1,10 @@
+# Hey there! I'm Gavin Gong
 
+Welcome to my profile! Specialized in backend development. For collaboration or technical discussions, feel free to contact me at: gavin.gong.it@gmail.com
 
 Linked Github Account：[ggw2021](https://github.com/ggw2021)
+
+<br>
 
 ### ✍ Blog & Writing
 
