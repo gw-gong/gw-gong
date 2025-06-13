@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&repeat=false&random=true&width=435&lines=Hey+there!+I'm+Gavin+Gong">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&repeat=false&random=true&width=450&height=44&lines=Hey+there!+I'm+Gavin+Gong">
 </h1>
 
 Welcome to my profile! Specialized in backend development.<br>
