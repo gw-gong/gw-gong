@@ -1,4 +1,6 @@
-<h1 align="center">Hey there! I'm Gavin Gong</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&repeat=false&random=true&width=435&lines=Hey+there!+I'm+Gavin+Gong">
+</h1>
 
 Welcome to my profile! Specialized in backend development.<br>
 For collaboration or technical discussions, feel free to contact me at: gavin.gong.it@gmail.com
@@ -59,11 +61,13 @@ Game Development:
 </p>
 
 ### ⭐️ Main Projects 
-
-<a href="https://github.com/gw-gong/code-comment-analyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gw-gong&repo=code-comment-analyzer&title_color=ffffff&text_color=c5c6cc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<br>
-<a href="https://github.com/ggw2021/WebDesign">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggw2021&repo=WebDesign&title_color=ffffff&text_color=c5c6cc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<p>
+  <a href="https://github.com/gw-gong/code-comment-analyzer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gw-gong&repo=code-comment-analyzer&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/ggw2021/WebDesign">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggw2021&repo=WebDesign&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+</p>
