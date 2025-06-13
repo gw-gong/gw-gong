@@ -1,5 +1,11 @@
+### 📈 Main Projects 
 
-### Languages and Tools
+<a href="https://github.com/gw-gong/code-comment-analyzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gw-gong&repo=code-comment-analyzer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+### 🛠️ Languages and Tools
 
 Backend:
 <p style="display: flex; flex-wrap: wrap; margin: 10px; margin-top: -14px;">
