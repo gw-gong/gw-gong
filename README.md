@@ -2,14 +2,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&repeat=false&random=true&width=450&height=44&lines=Hey+there!+I'm+Gavin+Gong">
 </h1>
 
-Welcome to my profile! Specialized in backend development.<br>
-For collaboration or technical discussions, feel free to contact me via email.
+Welcome to my profile! Specialized in **backend development**.<br>
+For collaboration or technical discussions, feel free to contact me at **`gavin.gong.it@gmail.com`**.
 
 Linked Github Account: <code><a href="https://github.com/ggw2021" title="ggw2021" style="text-decoration:none"><img height="24" src="imgs/icons/github_ggw2021.drawio.svg"></a></code>
 
 <br>
 
-### ✍ Blog & Writing
+### 📝 Blog & Writing
 
 Personal blog: <code height="2"><a href="https://gxblogs.com" title="gxblogs.com" style="text-decoration:none"><img height="24" src="imgs/icons/gxblogs.drawio.svg"></a></code>
 
