@@ -3,15 +3,15 @@
 </h1>
 
 Welcome to my profile! Specialized in backend development.<br>
-For collaboration or technical discussions, feel free to contact me at: gavin.gong.it@gmail.com
+For collaboration or technical discussions, feel free to contact me via email.
 
-Linked Github Account: [ggw2021](https://github.com/ggw2021)
+Linked Github Account: <code><a href="https://github.com/ggw2021" title="ggw2021" style="text-decoration:none"><img height="24" src="imgs/icons/github_ggw2021.drawio.svg"></a></code>
 
 <br>
 
 ### ✍ Blog & Writing
 
-Personal blog: [gxblogs.com](https://gxblogs.com)
+Personal blog: <code height="2"><a href="https://gxblogs.com" title="gxblogs.com" style="text-decoration:none"><img height="24" src="imgs/icons/gxblogs.drawio.svg"></a></code>
 
 <br>
 
