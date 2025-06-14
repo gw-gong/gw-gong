@@ -62,12 +62,10 @@ Game Development:
 
 ### ⭐️ Main Projects 
 <p>
-  <a href="https://github.com/gw-gong/code-comment-analyzer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gw-gong&repo=code-comment-analyzer&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
-</p>
-<p>
   <a href="https://github.com/ggw2021/WebDesign">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggw2021&repo=WebDesign&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+  <a href="https://github.com/gw-gong/code-comment-analyzer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gw-gong&repo=code-comment-analyzer&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </p>
