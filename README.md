@@ -26,6 +26,10 @@ Backend:
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+  <img alt="Gin" src="https://img.shields.io/badge/-Gin-45b8d8?style=flat-square&logo=gin&logoColor=white" />
+  <img alt="gRPC" src="https://img.shields.io/badge/-gRPC-68bcbc?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAD1BMVEUAAAAsTFguTFgtS1gtS1jcn9dlAAAABHRSTlMAQIC%2Fo1TdDAAAAIlJREFUOMudk0kOwzAMA8kR%2F%2F%2FmXhK7SL3U0dEaUCIhSwcFeNWvhH%2F7MOyX7%2BJXizzKpwqPHfzGhQTswzKAbI8jc3UbwxnfPkdANgBJgs0MSC6jjAG3Z8%2BB6lovgO0OzUVNc6hdUN4Bd9g1VUACW93PcwJNh9kGQGUFXIXW91BamUixPEr75MfrA1y1A9ycsvjAAAAAAElFTkSuQmCC" />
+
   <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
