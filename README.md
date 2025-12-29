@@ -9,9 +9,9 @@ For collaboration or technical discussions, feel free to contact me at **`gavin.
 
 ### 📝 Blog & Writing
 
-Personal blog: <code height="2"><a href="https://blog.gxtree.com" title="blog.gxtree.com" style="text-decoration:none"><img height="24" src="imgs/icons/blog.drawio.svg"></a></code>
+Personal blog: <code height="2"><a href="https://blog.gxtree.com" title="blog.gxtree.com" style="text-decoration:none"><img height="22" src="imgs/icons/blog.drawio.svg"></a></code>
 
-Project documents: <code height="2"><a href="https://dochub.gxtree.com" title="dochub.gxtree.com" style="text-decoration:none"><img height="24" src="imgs/icons/dochub.drawio.svg"></a></code>
+Project documents: <code height="2"><a href="https://dochub.gxtree.com" title="dochub.gxtree.com" style="text-decoration:none"><img height="22" src="imgs/icons/dochub.drawio.svg"></a></code>
 
 <br>
 
