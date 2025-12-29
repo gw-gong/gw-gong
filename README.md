@@ -53,7 +53,7 @@ Frontend:
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
 </p>
 
 Others:
@@ -61,6 +61,8 @@ Others:
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img alt="K6" src="https://img.shields.io/badge/-K6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
 </p>
 
 <br>
