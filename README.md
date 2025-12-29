@@ -5,13 +5,13 @@
 Welcome to my profile! Specialized in **backend development**.<br>
 For collaboration or technical discussions, feel free to contact me at **`gavin.gong.it@gmail.com`**.
 
-Linked Github Account: <code><a href="https://github.com/ggw2021" title="ggw2021" style="text-decoration:none"><img height="24" src="imgs/icons/github_ggw2021.drawio.svg"></a></code>
-
 <br>
 
 ### 📝 Blog & Writing
 
-Personal blog: <code height="2"><a href="https://gxblogs.com" title="gxblogs.com" style="text-decoration:none"><img height="24" src="imgs/icons/gxblogs.drawio.svg"></a></code>
+Personal blog: <code height="2"><a href="https://blog.gxtree.com" title="blog.gxtree.com" style="text-decoration:none"><img height="24" src="imgs/icons/blog.drawio.svg"></a></code>
+
+Project documents: <code height="2"><a href="https://dochub.gxtree.com" title="dochub.gxtree.com" style="text-decoration:none"><img height="24" src="imgs/icons/dochub.drawio.svg"></a></code>
 
 <br>
 
@@ -80,3 +80,7 @@ Others:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gw-gong&repo=gwkit-go&theme=react&border_color=61dafc&border_radius=10" />
   </a>
 </p>
+
+<br/>
+
+Linked Github Account: <code><a href="https://github.com/ggw2021" title="ggw2021" style="text-decoration:none"><img height="24" src="imgs/icons/github_ggw2021.drawio.svg"></a></code>
